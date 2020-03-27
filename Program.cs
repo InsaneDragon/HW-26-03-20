@@ -5,8 +5,8 @@
 //     {
 //         static void Main()
 //         {
-//             //////////////////////////////////////////////2
-//             double money=600;
+//             //////////////////////////////////////////2
+//             double money=6000;
 //             if(money>1000)
 //             {
 //                 money-=money*0.05;
@@ -17,12 +17,16 @@
 //             }
 //             System.Console.WriteLine(money);
 
-//             /////////////////////////////////////////////////////3
+//             //////////////////////////////////////////////////3
 //             double a=5,b=6,c=7,d=8,min=a;
 //             if(a<b&&b<c&&c<d)
 //             {
 //                 System.Console.WriteLine("Numbers go by increasing");
 //             }
+//          else if (a==b&&a==c&&a==d)
+//        {
+//            Console.WriteLine(a*b*c*d);
+//        }
 //             else 
 //             {
 //         if (min>b )
@@ -37,12 +41,9 @@
 //        {
 //           min=d;
 //        }
-//        else if (a==b&&a==c&&a==d)
-//        {
-//            Console.WriteLine(a*b*c*d);
-//        }
+       
 //             }
-//     ///////////////////////////////////4
+//     ///////////////////////////////4
 //     int a=9, b=10,c=11,max=a,min=a,middle=a;
 //   if(max<b)
 //  {
