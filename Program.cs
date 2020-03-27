@@ -9,11 +9,11 @@
 //             double money=600;
 //             if(money>1000)
 //             {
-//                 money-=money*0.03;
+//                 money-=money*0.05;
 //             }
 //             else if(money>500)
 //             {
-//                 money-=money*0.05;
+//                 money-=money*0.03;
 //             }
 //             System.Console.WriteLine(money);
 
