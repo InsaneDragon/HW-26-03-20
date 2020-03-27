@@ -41,7 +41,7 @@
 //        {
 //           min=d;
 //        }
-       
+//       Console.WriteLine(min);
 //             }
 //     ///////////////////////////////4
 //     int a=9, b=10,c=11,max=a,min=a,middle=a;
